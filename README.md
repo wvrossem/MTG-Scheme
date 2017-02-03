@@ -17,5 +17,5 @@ When this is done, start the application by running `main.ss`.
 Screenshot
 ----------
 
-![Interface](https://dl.dropbox.com/s/ul8s55gg8r4irg0/frame.png "Interface")
+![Interface](https://dl.dropbox.com/s/clw0c1ughu0r6w8/frame.pngg "Interface")
 
