@@ -5,7 +5,7 @@ All copyright for the rules of the game and images belong to Wizards of the Coas
 
 The game has limited appeal to actually play the game since it implements an old version (10th edition) of the rules of the card game and can only be played locally.
 
-However it does provide an example of a complex application written in Scheme and showcases different `patterns` from `object-oriented design` and `functional programming`.
+However it does provide an example of a complex application written in Scheme and showcases different _patterns_ from _object-oriented design_ and _functional programming_.
 
 How to use
 ----------
